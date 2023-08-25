@@ -12,7 +12,7 @@ Repositorio para armazenar resumos sobre Git e Github do Curso Versonamento de C
 
 | Aulas | Resumos | 
 |-------|---------| 
-|Gravando Alterações na Reposição local| [Resumos]()|
+|Gravando Alterações na Reposição local| [Resumo]()|
 
 ~~~~
 git init
