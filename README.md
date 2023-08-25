@@ -22,6 +22,9 @@ git --global
 git config
 git status
 cd nome.do.diretorio
+git reset mixer
+git reset hard
+git reset 
 
 ~~~~
 
